@@ -1,19 +1,16 @@
 EXTM3U
-#EXTINF:18,meadowlands_mbr.m3u8
+#EXTINF:18,meadowlandS
 #EXTVLCOPT:network-caching=1000
 https://streamn.horserjson.info/video/hls/meadowlands_mbr/DHOdk3bjRxSwsK6-FIJL3g/1689386146/meadowlands_mbr.m3u8
-#EXTINF:18,charles_town_mbr.m3u8
+#EXTINF:18,charles
 #EXTVLCOPT:network-caching=1000
 https://streamn.horserjson.info/video/hls/charles_town_mbr/3j_bAjmrgKU-Ng0Uz8Amrg/1689386236/charles_town_mbr.m3u8
-#EXTINF:18,grand_river_mbr.m3u8
+#EXTINF:18,grand_river
 #EXTVLCOPT:network-caching=1000
 https://streamn.horserjson.info/video/hls/grand_river_mbr/PLtDuW2NijLTSSZnRBIqkQ/1689386304/grand_river_mbr.m3u8
-#EXTINF:12,*~hmac=f74d4204d18dfc493740800bded4555d7aa133e70968f56d8ff18e7a85e3287d
-#EXTVLCOPT:network-caching=1000
-https://skylivepremium-new.akamaized.net/hls/live/2036996/sky1/index.m3u8?hdnts=exp=1689386356~acl=/*~hmac=f74d4204d18dfc493740800bded4555d7aa133e70968f56d8ff18e7a85e3287d
-#EXTINF:5,stream.m3u8
+#EXTINF:5,AMERICANAS 6
 #EXTVLCOPT:network-caching=1000
 https://5.trstream01.xyz/canal6/stream.m3u8
-#EXTINF:2,playlist.m3u8?PlaylistM3UCL
+#EXTINF:2,PRUEBA
 #EXTVLCOPT:network-caching=1000
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8?PlaylistM3UCL
