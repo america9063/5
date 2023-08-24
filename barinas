@@ -37,10 +37,6 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1692836882/ei/s
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.youtube.com/s/desktop/51e20ad6/img/favicon_144x144.png" group-title="AMERICANAS",ASD Assiniboia Downs
 #EXTVLCOPT:network-caching=1000
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1692855331/ei/w5fmZKLBM4OCkAPf_6a4Cg/ip/190.103.30.205/id/2H_zr1odQbM.1/source/yt_live_broadcast/requiressl/yes/tx/24540601/txs/24540597%2C24540598%2C24540599%2C24540600%2C24540601%2C24540602%2C24540603%2C24540604/hfr/1/maxh/4320/maudio/1/siu/1/spc/UWF9fxBD6NNOpYbzNbONEiGbs880zRTJ6i3uBRx3vJPYm5qk23eT0cM/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAMtHGmQfoU_RmFebGn4--xSvZ0ad1zz1F9zq2TMcqFmeAiBF8CvvjGYhh8PB6hFdOO6LVFysH1xFCwRG-knreg6lxw%3D%3D/file/index.m3u8?
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1692837518/ei/LlLmZIaAE4KBkAODsZ-IBg/ip/190.103.30.205/id/4LGhgkzHkdQ.1/source/yt_live_broadcast/requiressl/yes/tx/24540601/txs/24540597%2C24540598%2C24540599%2C24540600%2C24540601%2C24540602%2C24540603%2C24540604/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f6pL7Ge8Zp3Y2jnJzuBVFf1vHOHZCCYZnu0YlmqrSQEW75gYow0/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgYIRvaSV9gNenT5esA_xXOEswdqdgL8okY3hYWf_o4AICIQDfWjFsNxO235VMyvVpbIFXtCVv6E_moW932WDTBkhPww%3D%3D/file/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.youtube.com/s/desktop/51e20ad6/img/favicon_144x144.png" group-title="AMERICANAS", SIMULCAT JVC
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
