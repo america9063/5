@@ -49,7 +49,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1692837770/ei/K
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1692837928/ei/yFPmZPa0KZ3NxtYPksGF8Aw/ip/190.103.30.205/id/dH4K8UbTlNw.1/source/yt_live_broadcast/requiressl/yes/tx/24540601/txs/24540597%2C24540598%2C24540599%2C24540600%2C24540601%2C24540602%2C24540603%2C24540604/hfr/1/maxh/4320/maudio/1/siu/1/spc/UWF9fxDEbuw7IiPB5qxCitgswolMDXLQ7zPxT2lOCz6MxAA9oxi8JIk/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgJdRFpkfJTi0LOgmq4AtqKP8fL60vPKoltDNrWSN5efQCIQDEve433AXn2vOwztifZa26K6LLT1lXA90cIQtgc0_RjA%3D%3D/file/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="AMERICANAS", FOX SPORTS 2 NYRA
 #EXTVLCOPT:network-caching=1000
-https://video.twimg.com/ext_tw_video/1689735105588133889/pu/pl/640x360/qOY-0LTJXisu3jiZ.m3u8?container=fmp4
+https://xtreamgo.one/live/IPTVA0109/9vY6JZES92/65915.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.westernotb.com/wp-content/themes/custom-theme/images/logo-large.png" group-title="AMERICANAS", CAPITAL OTB
 #EXTVLCOPT:network-caching=1000
 https://hls2.rcncdn.com/hlsorigin/capitalotb_hd_fm_2200/chunklist.m3u8?stream=capitalotb_mbr&cust=RTN&user=44096&t=1692816705&h=7d3dc8cfb27b680377d80f942958ed8e&type=live&optp=pid%3A38%7Ctid%3A
