@@ -147,6 +147,9 @@ https://dmithrvll.cdn.mangomolo.com/dubairacing/dubairacing/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ee/equidia_pro1.png" group-title="AMERICANAS", EQUIDIA PRO FRANCE
 #EXTVLCOPT:network-caching=1000
 https://cloudfront41.lexanetwork.com:1344/xrelay/loverseny2.sdp/chunks.m3u8?nimblesessionid=15212242
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaRXouSrWO1tSd-XRJlReGEplligZ1rSFj5i0YHT=s176-c-k-c0x00ffffff-no-rj" group-title="LATAM", HIDPODROMOS CHILE
+#EXTVLCOPT:network-caching=1000
+https://unlimited1-us.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream2/chunks.m3u8?
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="AMERICANAS", RACING TV
 #EXTVLCOPT:network-caching=1000
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index628.m3u8
