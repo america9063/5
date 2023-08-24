@@ -104,13 +104,11 @@ https://video.twimg.com/ext_tw_video/1689735105588133889/pu/pl/640x360/qOY-0LTJX
 https://ddy1.cdndac.lol/ddy1/premium399/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://209.126.82.213/logos/eventos/mlb.png" group-title="MLB", MLB GAME1
 #EXTVLCOPT:network-caching=1000
-https://ddh1.cdndac.lol/ddh1/premium763/tracks-v1a1/mono.m3u8
+https://video.twimg.com/ext_tw_video/1689735105588133889/pu/pl/640x360/qOY-0LTJXisu3jiZ.m3u8?container=fmp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://209.126.82.213/logos/eventos/mlb.png" group-title="MLB", MLB GAME2
 #EXTVLCOPT:network-caching=1000
-https://ddy5.cdndac.lol/ddy5/premium111/tracks-v1a1/mono.m3u8
+https://video.twimg.com/ext_tw_video/1689735105588133889/pu/pl/640x360/qOY-0LTJXisu3jiZ.m3u8?container=fmp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://209.126.82.213/logos/eventos/mlb.png" group-title="MLB", MLB GAME3
 #EXTVLCOPT:network-caching=1000
-https://ddy1.cdndac.lol/ddy1/premium399/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://209.126.82.213/logos/eventos/mlb.png" group-title="MLB", MLB GAME4
-#EXTVLCOPT:network-caching=1000
-https://ddh1.cdndac.lol/ddh1/premium758/tracks-v1a1/mono.m3u8
+https://video.twimg.com/ext_tw_video/1689735105588133889/pu/pl/640x360/qOY-0LTJXisu3jiZ.m3u8?container=fmp4
+
