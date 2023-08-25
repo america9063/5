@@ -98,18 +98,7 @@ https://s3.amazonaws.com/cdn.fanduel.com/images/2022/FDTV_FD%2B/FDTV+-+Teaser+Si
 #EXTINF:-1 tvg-id="" tvg-logo="https://inh.gob.ve/wp-content/uploads/2020/05/inh_logo.png"= group-title="INH", INH EN VIVO 13
 #EXTVLCOPT:network-caching=1000
 https://video.twimg.com/ext_tw_video/1689735105588133889/pu/pl/640x360/qOY-0LTJXisu3jiZ.m3u8?container=fmp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://15.204.172.102/images/6Io6LstbmQQ6wZdIMoCDvlleO5QC2CR7jCi1mCaauD9BAdE8292j9d_IklCAvY47.png" group-title="NBA", NBA TV
-#EXTVLCOPT:network-caching=1000
-https://xtreamgo.one/live/IPTVA0109/9vY6JZES92/226356.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.81.203.15/images/6Io6LstbmQQ6wZdIMoCDvlleO5QC2CR7jCi1mCaauD8ulWOc0pgxWjaxbIkwLwMWMtzqkCIJnbuIwocMnm0KMA.png" group-title="MLB", MLB TV
 #EXTVLCOPT:network-caching=1000
 https://xtreamgo.one/live/IPTVA0109/9vY6JZES92/348681.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://209.126.82.213/logos/eventos/mlb.png" group-title="MLB", MLB GAME1
-#EXTVLCOPT:network-caching=1000
-http://xtreamgo.one/live/IPTVA0109/9vY6JZES92/348704.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://209.126.82.213/logos/eventos/mlb.png" group-title="MLB", MLB GAME2
-#EXTVLCOPT:network-caching=1000
-https://xtreamgo.one/live/IPTVA0109/9vY6JZES92/271031.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://51.81.203.15/images/QCqX5p5x3Y181Q8jwb82JOeVNqaXF6pCUiIGVmVZMOHmSmyA38Jh8bfbGLcT0txA.png" group-title="LIGA", LIGA ESPAÑOLA
-#EXTVLCOPT:network-caching=1000
-https://xtreamgo.one/live/IPTVA0109/9vY6JZES92/8486.m3u8
+#EXTINF:
