@@ -45,12 +45,12 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1692944938/ei/y
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.youtube.com/s/desktop/51e20ad6/img/favicon_144x144.png" group-title="AMERICANAS",Cantebury park
 #EXTVLCOPT:network-caching=1000
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1692945040/ei/MPbnZOnrE9zJxtYP3JyCmA4/ip/190.103.30.205/id/OWCSO879y7A.1/source/yt_live_broadcast/requiressl/yes/tx/24540601/txs/24540597%2C24540598%2C24540599%2C24540600%2C24540601%2C24540602%2C24540603%2C24540604/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9fzmHb5IbWXI43uiiYCNVfONZd8UJ3q2DoPHXbc5h4oH6TcAB8n4/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgaJLBfGLcpNI6ikC9mUM9CetRD5xg-R3OQsTW2asgN5QCIQDeNL2-PzwO3E7GDUgtb3EaZybUPG4_-Xaqq1KWR_Zbng%3D%3D/file/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.youtube.com/s/desktop/51e20ad6/img/favicon_144x144.png" group-title="AMERICANAS", SIMULCAT JVC
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.youtube.com/s/desktop/51e20ad6/img/favicon_144x144.png" group-title="AMERICANAS", SIMULCAT TEST
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1692837770/ei/KlPmZKn8GKTKxtYP3Jyc-A4/ip/190.103.30.205/id/8RK9zYIwPgw.1/source/yt_live_broadcast/requiressl/yes/tx/24540601/txs/24540597%2C24540598%2C24540599%2C24540600%2C24540601%2C24540602%2C24540603%2C24540604/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f4f44fHwd1twaN2K1V5S-aXl6b0SfvQFnvAK9EawhJWCTUpBHSk/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgbNMWrQ7rnNfY65Mefy7e6oMVr5HazhQY90nVg3PHOJ8CIB4d-EY3-eJRnsu3UopvKSfQlnJiadsPsZADm8cbAemo/file/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.youtube.com/s/desktop/51e20ad6/img/favicon_144x144.png" group-title="AMERICANAS", fingers lakes
+https://streamn.horserjson.info/video/hls/charles_town_mbr/UQss2_piH0WxXzcAST-WZg/1692927424/charles_town_mbr.m3u8?
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.youtube.com/s/desktop/51e20ad6/img/favicon_144x144.png" group-title="AMERICANAS", colonial downs
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
