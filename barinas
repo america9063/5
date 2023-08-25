@@ -55,9 +55,6 @@ https://streamn.horserjson.info/video/hls/charles_town_mbr/UQss2_piH0WxXzcAST-WZ
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1692837928/ei/yFPmZPa0KZ3NxtYPksGF8Aw/ip/190.103.30.205/id/dH4K8UbTlNw.1/source/yt_live_broadcast/requiressl/yes/tx/24540601/txs/24540597%2C24540598%2C24540599%2C24540600%2C24540601%2C24540602%2C24540603%2C24540604/hfr/1/maxh/4320/maudio/1/siu/1/spc/UWF9fxDEbuw7IiPB5qxCitgswolMDXLQ7zPxT2lOCz6MxAA9oxi8JIk/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgJdRFpkfJTi0LOgmq4AtqKP8fL60vPKoltDNrWSN5efQCIQDEve433AXn2vOwztifZa26K6LLT1lXA90cIQtgc0_RjA%3D%3D/file/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="AMERICANAS", FOX SPORTS 2 NYRA
-#EXTVLCOPT:network-caching=1000
-https://xtreamgo.one/live/IPTVA0109/9vY6JZES92/65915.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.westernotb.com/wp-content/themes/custom-theme/images/logo-large.png" group-title="AMERICANAS", CAPITAL OTB
 #EXTVLCOPT:network-caching=1000
 https://hls2.rcncdn.com/hlsorigin/capitalotb_hd_fm_2200/chunklist.m3u8?stream=capitalotb_mbr&cust=RTN&user=44096&t=1692816705&h=7d3dc8cfb27b680377d80f942958ed8e&type=live&optp=pid%3A38%7Ctid%3A
@@ -79,85 +76,15 @@ https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/
 #EXTINF:-1 tvg-id="" tvg-logo="https://galopetv.com/wp-content/uploads/2019/12/logo-GalopeTV.png" group-title="AMERICANAS", GALLOPE TV UK USA
 #EXTVLCOPT:network-caching=1000
 https://622388392e06e.streamlock.net/galloptv/gc_galloptv.smil/chunklist_w1569788409_b1464000_sleng_tkZ3JleXZpbGxlZW5kdGltZT0xNjkyODQ3MDIwJmdyZXl2aWxsZXN0YXJ0dGltZT0wJmdyZXl2aWxsZXh0cmFXZWJQYWdlSUQ9c3RldmUmZ3JleXZpbGxlaGFzaD1ueGFNVVdlNkJOMUJDUW1OX09FZzRYSUZlQ25xY29YMHJtQmVoWDkzcGVVPQ==.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.hipodromo.com.mx/desktop/images/LOGO_HIPODROMO_bco.png" group-title="AMERICANAS", HIPODROMO DE LAS AMERICAS MEX
-#EXTVLCOPT:network-caching=1000
-http://wms.tecnoxia.com:1935/8158/8158/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://admango.cdn.mangomolo.com/analytics/uploads/71/icons/live/dubai-racing-live.png" group-title="AMERICANAS", DUBAI RACING1
-#EXTVLCOPT:network-caching=1000
-https://dmithrvll.cdn.mangomolo.com/dubairacing/dubairacing/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ee/equidia_pro1.png" group-title="AMERICANAS", EQUIDIA PRO FRANCE
 #EXTVLCOPT:network-caching=1000
 https://cloudfront41.lexanetwork.com:1344/xrelay/loverseny2.sdp/chunks.m3u8?nimblesessionid=15212242
-#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="AMERICANAS", RACING TV
-#EXTVLCOPT:network-caching=1000
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index628.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://nationalsteeplechase.com/wp-content/uploads/2022/01/logo-white.png" group-title="AMERICANAS", NSA SARATOGA
-#EXTVLCOPT:network-caching=1000
-https://2-fss-2.streamhoster.com/pl_120/205890-3594164-1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://media.bizj.us/view/img/11906256/fdretailsbk-hrlogovrtfullcolorprimarydarkbg.jpg" group-title="AMERICANAS", FANDUEL SPORTSBOOK
-#EXTVLCOPT:network-caching=1000
-https://s3.amazonaws.com/cdn.fanduel.com/images/2022/FDTV_FD%2B/FDTV+-+Teaser+Sizzle+-+v7.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://inh.gob.ve/wp-content/uploads/2020/05/inh_logo.png"= group-title="INH", INH EN VIVO 13
-#EXTVLCOPT:network-caching=1000
-https://video.twimg.com/ext_tw_video/1689735105588133889/pu/pl/640x360/qOY-0LTJXisu3jiZ.m3u8?container=fmp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://51.81.203.15/images/6Io6LstbmQQ6wZdIMoCDvlleO5QC2CR7jCi1mCaauD8ulWOc0pgxWjaxbIkwLwMWMtzqkCIJnbuIwocMnm0KMA.png" group-title="MLB", MLB TV
-#EXTVLCOPT:network-caching=1000
-https://xtreamgo.one/live/IPTVA0109/9vY6JZES92/348681.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://15.204.172.102/images/6Io6LstbmQQ6wZdIMoCDvlleO5QC2CR7jCi1mCaauD9BAdE8292j9d_IklCAvY47.png" group-title="NBA", NBA TV
-#EXTVLCOPT:network-caching=1000
-https://xtreamgo.one/live/IPTVA0109/9vY6JZES92/226356.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://209.126.82.213/logos/eventos/mlb.png" group-title="MLB", MLB GAME2
-#EXTVLCOPT:network-caching=1000
-https://xtreamgo.one/live/IPTVA0109/9vY6JZES92/238190.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://209.126.82.213/logos/eventos/mlb.png" group-title="MLB", MLB GAME3
-#EXTVLCOPT:network-caching=1000
-https://video.twimg.com/ext_tw_video/1689735105588133889/pu/pl/640x360/qOY-0LTJXisu3jiZ.m3u8?container=fmp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.youtube.com/s/desktop/51e20ad6/img/favicon_144x144.png" group-title="AMERICANAS", SIMULCAT JVC
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1692837770/ei/KlPmZKn8GKTKxtYP3Jyc-A4/ip/190.103.30.205/id/8RK9zYIwPgw.1/source/yt_live_broadcast/requiressl/yes/tx/24540601/txs/24540597%2C24540598%2C24540599%2C24540600%2C24540601%2C24540602%2C24540603%2C24540604/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f4f44fHwd1twaN2K1V5S-aXl6b0SfvQFnvAK9EawhJWCTUpBHSk/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgbNMWrQ7rnNfY65Mefy7e6oMVr5HazhQY90nVg3PHOJ8CIB4d-EY3-eJRnsu3UopvKSfQlnJiadsPsZADm8cbAemo/file/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.youtube.com/s/desktop/51e20ad6/img/favicon_144x144.png" group-title="AMERICANAS", fingers lakes
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1692837928/ei/yFPmZPa0KZ3NxtYPksGF8Aw/ip/190.103.30.205/id/dH4K8UbTlNw.1/source/yt_live_broadcast/requiressl/yes/tx/24540601/txs/24540597%2C24540598%2C24540599%2C24540600%2C24540601%2C24540602%2C24540603%2C24540604/hfr/1/maxh/4320/maudio/1/siu/1/spc/UWF9fxDEbuw7IiPB5qxCitgswolMDXLQ7zPxT2lOCz6MxAA9oxi8JIk/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgJdRFpkfJTi0LOgmq4AtqKP8fL60vPKoltDNrWSN5efQCIQDEve433AXn2vOwztifZa26K6LLT1lXA90cIQtgc0_RjA%3D%3D/file/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="AMERICANAS", FOX SPORTS 2 NYRA
-#EXTVLCOPT:network-caching=1000
-https://video.twimg.com/ext_tw_video/1689735105588133889/pu/pl/640x360/qOY-0LTJXisu3jiZ.m3u8?container=fmp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.westernotb.com/wp-content/themes/custom-theme/images/logo-large.png" group-title="AMERICANAS", CAPITAL OTB
-#EXTVLCOPT:network-caching=1000
-https://hls2.rcncdn.com/hlsorigin/capitalotb_hd_fm_2200/chunklist.m3u8?stream=capitalotb_mbr&cust=RTN&user=44096&t=1692816705&h=7d3dc8cfb27b680377d80f942958ed8e&type=live&optp=pid%3A38%7Ctid%3A
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.nyra.com/assets/components/phpthumbof/cache/news_image_new_logo_800x500.550869e8508e8464f1b06ab90d5e75c4.jpg" group-title="AMERICANAS", NYRA LIVES SARATOGA
-#EXTVLCOPT:network-caching=1000
-https://shlsakamai4.akamaized.net/hlsorigin/nyra_bcast_hd_fm_1800/chunklist.m3u8?stream=nyra_bcast_mbr&cust=NYRA&user=&t=1692817203&h=e53524be892923924742fca8e9da2803&type=live
-#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1326188819578753024/iLYLe_Oh_400x400.jpg" group-title="Galgos", SIS TV Galgos
-#EXTVLCOPT:network-caching=100
-https://f3media-greyhound-b28-cdn.hexaglobe.net/d10499c4b99c37b49d9155b5e8e51bc7/1653595377/f3media-website-web-1/f3greyhoundpri_fre_576p.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/Sky_au_racing.png" group-title="AMERICANAS", SKY RACING INTERNATIONAL
-#EXTVLCOPT:network-caching=1000
-https://skylivepremium-new.akamaized.net/hls/live/2036996/sky1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaQgrhcpDvyq-lFbl3bzvu-kCdMtnN9rcAtoe5wh-w=s176-c-k-c0x00ffffff-no-rj" group-title="LATAM", MONTERRRICO PERU USA
-#EXTVLCOPT:network-caching=1000
-https://ed3od.live.opencaster.com/jcpstream_mid/index.m3u8?token=eHsSN4w1QHXXwHyRFm6x5wNIqconnVFuvIMTZuzrOpE%3D
-#EXTINF:-1 tvg-id="" tvg-logo="http://resources.mynewsdesk.com/image/upload/c_limit,dpr_2.625,f_auto,h_700,q_auto,w_360/luh8fqfqetgkhkmx9lst.jpg" group-title="LATAM", ATG HORSE RACING UK
-#EXTVLCOPT:network-caching=1000
-https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://galopetv.com/wp-content/uploads/2019/12/logo-GalopeTV.png" group-title="AMERICANAS", GALLOPE TV UK USA
-#EXTVLCOPT:network-caching=1000
-https://622388392e06e.streamlock.net/galloptv/gc_galloptv.smil/chunklist_w1569788409_b1464000_sleng_tkZ3JleXZpbGxlZW5kdGltZT0xNjkyODQ3MDIwJmdyZXl2aWxsZXN0YXJ0dGltZT0wJmdyZXl2aWxsZXh0cmFXZWJQYWdlSUQ9c3RldmUmZ3JleXZpbGxlaGFzaD1ueGFNVVdlNkJOMUJDUW1OX09FZzRYSUZlQ25xY29YMHJtQmVoWDkzcGVVPQ==.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.hipodromo.com.mx/desktop/images/LOGO_HIPODROMO_bco.png" group-title="AMERICANAS", HIPODROMO DE LAS AMERICAS MEX
-#EXTVLCOPT:network-caching=1000
-http://wms.tecnoxia.com:1935/8158/8158/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://admango.cdn.mangomolo.com/analytics/uploads/71/icons/live/dubai-racing-live.png" group-title="AMERICANAS", DUBAI RACING1
-#EXTVLCOPT:network-caching=1000
-https://dmithrvll.cdn.mangomolo.com/dubairacing/dubairacing/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ee/equidia_pro1.png" group-title="AMERICANAS", EQUIDIA PRO FRANCE
-#EXTVLCOPT:network-caching=1000
-https://cloudfront41.lexanetwork.com:1344/xrelay/loverseny2.sdp/chunks.m3u8?nimblesessionid=15212242
-#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaRXouSrWO1tSd-XRJlReGEplligZ1rSFj5i0YHT=s176-c-k-c0x00ffffff-no-rj" group-title="LATAM", HIDPODROMOS CHILE
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaRXouSrWO1tSd-XRJlReGEplligZ1rSFj5i0YHT=s176-c-k-c0x00ffffff-no-rj" group-title="LATAM", HIDPODROMOS CHILE USA
 #EXTVLCOPT:network-caching=1000
 https://unlimited1-us.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream2/chunks.m3u8?
+#EXTINF:-1 tvg-id="" tvg-logo="http://admango.cdn.mangomolo.com/analytics/uploads/71/icons/live/dubai-racing-live.png" group-title="AMERICANAS", DUBAI RACING1
+#EXTVLCOPT:network-caching=1000
+https://dmithrvll.cdn.mangomolo.com/dubairacing/dubairacing/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="AMERICANAS", RACING TV
 #EXTVLCOPT:network-caching=1000
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index628.m3u8
@@ -185,4 +112,3 @@ https://xtreamgo.one/live/IPTVA0109/9vY6JZES92/271031.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.81.203.15/images/QCqX5p5x3Y181Q8jwb82JOeVNqaXF6pCUiIGVmVZMOHmSmyA38Jh8bfbGLcT0txA.png" group-title="LIGA", LIGA ESPAÑOLA
 #EXTVLCOPT:network-caching=1000
 https://xtreamgo.one/live/IPTVA0109/9vY6JZES92/8486.m3u8
-
