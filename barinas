@@ -49,11 +49,11 @@ https://cfvod.kaltura.com/scf/hls/p/1982211/sp/198221100/serveFlavor/entryId/1_0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://video.twimg.com/ext_tw_video/1689735105588133889/pu/pl/640x360/qOY-0LTJXisu3jiZ.m3u8?container=fmp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.youtube.com/s/desktop/51e20ad6/img/favicon_144x144.png" group-title="AMERICANAS", colonial downs
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.youtube.com/s/desktop/51e20ad6/img/favicon_144x144.png" group-title="AMERICANAS", No disponible
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1693001111/ei/NtHoZLePN82fkAO7uY7gCg/ip/190.103.30.205/id/IY2QsBsRBpQ.1/source/yt_live_broadcast/requiressl/yes/tx/24540601/txs/24540597%2C24540598%2C24540599%2C24540600%2C24540601%2C24540602%2C24540603%2C24540604/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9fyFPrr133jE5Dkad0TmRRPKSoFUwjrnqEZY7-Aiuu9gOEZVtv0M/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAIW2qUBnO_tGWK463KzyNi-fxK_gkFy1x1bkHT341M5MAiEAoAuznr5h9T_VDEBrgdSydmvUOd2LvmBiJYMI1eTkIAc%3D/file/index.m3u8?
+https://cfvod.kaltura.com/scf/hls/p/1982211/sp/198221100/serveFlavor/entryId/1_0j12f9dl/v/1/ev/7/flavorId/1_sxj6efob/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvMTk4MjIxMS9zcC8xOTgyMjExMDAvc2VydmVGbGF2b3IvZW50cnlJZC8xXzBqMTJmOWRsL3YvMS9ldi83KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY5MzE0OTQwOH19fV19&Signature=RcSVmfnUgXPvG8B8tt6oPQjCsZ2ZA7-PCVk7L7LfP8tPWPeNzn1n0EUYjtFli3iajXS3Qhq36J-FKSf20wBWt0JYCbr5M8f3ZsMBWlo85owP4zGqGNX0MM2JocqELulm2odPP~TcHHGurA-a8n65MzEDLnU-mWq3EgL7XpUha8O0SKRLnfID8ZVoWws3VOiZFmz8zolNJDod2h07BfUgvwYj2WD91HuGDGx9DnrlwjnJevoTDpLu7aKLGw-kofs5rVRuQIYOpzCrBEC1vZRBVoptqzFm3z-leZzrcaVlNEw-wxvfnFTmlyoCO97U6NRJmGLav6-w6NHf0TqCFg8aIA__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.westernotb.com/wp-content/themes/custom-theme/images/logo-large.png" group-title="AMERICANAS", CAPITAL OTB
 #EXTVLCOPT:network-caching=1000
 https://hls2.rcncdn.com/hlsorigin/capitalotb_hd_fm_2200/chunklist.m3u8?stream=capitalotb_mbr&cust=RTN&user=44096&t=1692978718&h=e9ce0a577e5bd7a39d409204491efd3d&type=live&optp=pid%3A38%7Ctid%3A
@@ -74,10 +74,6 @@ https://ed3od.live.opencaster.com/jcpstream_mid/index.m3u8?token=eHsSN4w1QHXXwHy
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://galopetv.com/wp-content/uploads/2019/12/logo-GalopeTV.png" group-title="AMERICANAS", GALLOPE TV UK USA
 #EXTVLCOPT:network-caching=1000
-https://622388392e06e.streamlock.net/galloptv/gc_galloptv.smil/chunklist_w774722763_b1464000_sleng_tkZ3JleXZpbGxlZW5kdGltZT0xNjkzMDkzMjAwJmdyZXl2aWxsZXN0YXJ0dGltZT0wJmdyZXl2aWxsZXh0cmFXZWJQYWdlSUQ9c3RldmUmZ3JleXZpbGxlaGFzaD01SktDVjVGTGd4VENJUjdrTmhxZE9WZ041MFpDblE5NHEwcGtIOGdjTGdZPQ==.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ee/equidia_pro1.png" group-title="AMERICANAS", EQUIDIA PRO FRANCE
-#EXTVLCOPT:network-caching=1000
-https://cloudfront41.lexanetwork.com:1344/xrelay/loverseny2.sdp/chunks.m3u8?nimblesessionid=15212242
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaRXouSrWO1tSd-XRJlReGEplligZ1rSFj5i0YHT=s176-c-k-c0x00ffffff-no-rj" group-title="LATAM", HIDPODROMOS CHILE USA
 #EXTVLCOPT:network-caching=1000
 https://unlimited1-us.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream2/chunks.m3u8?
