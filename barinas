@@ -59,7 +59,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1693001111/ei/N
 https://hls2.rcncdn.com/hlsorigin/capitalotb_hd_fm_2200/chunklist.m3u8?stream=capitalotb_mbr&cust=RTN&user=44096&t=1692978718&h=e9ce0a577e5bd7a39d409204491efd3d&type=live&optp=pid%3A38%7Ctid%3A
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.nyra.com/assets/components/phpthumbof/cache/news_image_new_logo_800x500.550869e8508e8464f1b06ab90d5e75c4.jpg" group-title="AMERICANAS", NYRA LIVES SARATOGA
 #EXTVLCOPT:network-caching=1000
-https://shlsakamai4.akamaized.net/hlsorigin/nyra_bcast_hd_fm_1800/chunklist.m3u8?stream=nyra_bcast_mbr&cust=NYRA&user=&t=1692980646&h=41cab6b9e1712d7cf54d75f2d7f9e010&type=live
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1693085767/ei/5xvqZKjLEs6zkAPyrIbIAQ/ip/190.103.30.205/id/ktgMtUmu4f8.1/source/yt_live_broadcast/requiressl/yes/tx/24540601/txs/24540597%2C24540598%2C24540599%2C24540600%2C24540601%2C24540602%2C24540603%2C24540604/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f_w12a327WXa3al6jAzX2snRn2Y-a9Hk9s_UCKXc3ucyfaOkZmQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAO4afSFsLIZbFpa_Lf7lD2P23VaLCdThQYAq1Y6Abm4KAiALfbaAGwKXW-prnz4aIFy1NfnWyEIzyFGyH96CoZR1aA%3D%3D/file/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1326188819578753024/iLYLe_Oh_400x400.jpg" group-title="Galgos", SIS TV Galgos
 #EXTVLCOPT:network-caching=100
 https://f3media-greyhound-b28-cdn.hexaglobe.net/d10499c4b99c37b49d9155b5e8e51bc7/1653595377/f3media-website-web-1/f3greyhoundpri_fre_576p.m3u8
@@ -74,7 +74,7 @@ https://ed3od.live.opencaster.com/jcpstream_mid/index.m3u8?token=eHsSN4w1QHXXwHy
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://galopetv.com/wp-content/uploads/2019/12/logo-GalopeTV.png" group-title="AMERICANAS", GALLOPE TV UK USA
 #EXTVLCOPT:network-caching=1000
-https://622388392e06e.streamlock.net/galloptv/gc_galloptv.smil/chunklist_w1526221500_b1464000_sleng_tkZ3JleXZpbGxlZW5kdGltZT0xNjkzMDA5MjAwJmdyZXl2aWxsZXN0YXJ0dGltZT0wJmdyZXl2aWxsZXh0cmFXZWJQYWdlSUQ9c3RldmUmZ3JleXZpbGxlaGFzaD1fUjFHa2hNUVNjVzZVX1JyYUxMWVROVEduUjVkYm5lS3c4dEdoYWE4TTc0PQ==.m3u8
+https://622388392e06e.streamlock.net/galloptv/gc_galloptv.smil/chunklist_w774722763_b1464000_sleng_tkZ3JleXZpbGxlZW5kdGltZT0xNjkzMDkzMjAwJmdyZXl2aWxsZXN0YXJ0dGltZT0wJmdyZXl2aWxsZXh0cmFXZWJQYWdlSUQ9c3RldmUmZ3JleXZpbGxlaGFzaD01SktDVjVGTGd4VENJUjdrTmhxZE9WZ041MFpDblE5NHEwcGtIOGdjTGdZPQ==.m3u8?
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ee/equidia_pro1.png" group-title="AMERICANAS", EQUIDIA PRO FRANCE
 #EXTVLCOPT:network-caching=1000
 https://cloudfront41.lexanetwork.com:1344/xrelay/loverseny2.sdp/chunks.m3u8?nimblesessionid=15212242
