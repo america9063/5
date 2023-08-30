@@ -29,3 +29,6 @@ https://api.new.livestream.com/accounts/9869799/events/7517661/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/WOOBINE2.JPG" group-title="WOOBINE", WOOBINE OFICIAL
 #EXTVLCOPT:network-caching=100
 https://bcovlive-a.akamaihd.net/713d396427fa481180b8d7cfa1fb792f/us-east-1/61382429001/profile_0/chunklist.m3u8?hdnea=st=1690044778~exp=9007200944785769~acl=/713d396427fa481180b8d7cfa1fb792f/*/profile_0/chunklist.m3u8*~hmac=d2da18ba54a76762d7568d0111e7277c20b47a1d506030a088c60117e79d4d63
+#EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/WOOBINE2.JPG" group-title="WOOBINE", TEST
+#EXTVLCOPT:network-caching=1000
+https://xtreamgo.one/live/IPTVA0109/9vY6JZES92/350309.m3u8
