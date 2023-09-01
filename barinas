@@ -10,7 +10,7 @@ https://5.trstream01.xyz/canal3/stream.m3u8
 https://2.trstream01.xyz/canal4/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="WEBMARFINS",WEBMA 04
 #EXTVLCOPT:network-caching=100
-https://2.trstream01.xyz/canal4/stream.m3u8
+https://api.new.livestream.com/accounts/9869799/events/7517661/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="WEBMARFINS",WEBMA 05
 #EXTVLCOPT:network-caching=100
 https://movilhipismotv.com:5443/livetv99/streams/g3LfJuR4KIWP1693428548520.m3u8
@@ -94,7 +94,7 @@ https://video.twimg.com/ext_tw_video/1689735105588133889/pu/pl/640x360/qOY-0LTJX
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoKEVDGjOwb7HbhCRDK9KW3B77oNMk79GXqu0ZZl5nCmguUI6Y" group-title="MLB", STRIKE ZONE
 #EXTVLCOPT:network-caching=1000
 http://209.222.97.75/play/hls/eyJpdiI6IkRIcFpZS09NWWpnRkp1WkVEVFgzd2c9PSIsInZhbHVlIjoidGMzRlhiTmVucXRFcGZUZjk5M0FKNzBldjB3endadHIxNWs3YzR5ampYT0NNcVFVSUJwKzlLZGhtNjdKYWExdyIsIm1hYyI6ImI2ZDFhNjI0ZjRlNWUzOGY2NDIwNjM5ODgzNTQwY2I1OGE2YzQzYjNjNjgwZDdmODEyZTc4ZGJiMTg1NjgxYmEiLCJ0YWciOiIifQ==/89ace729-aa2d-499c-bcd1-8ae9a169f311.m3u8?lvtoken=eyJpdiI6Imx1K09KelBFSTZxSGJEaFlERjdBYlE9PSIsInZhbHVlIjoidHhXZjhLdzZjZTNUSHgyeTQrcXR4T05SeGNmck92L3l3eTh5aXc3bzhFOXo1cm1XVHR6SG5CWG12SStyZVVmbEkza2lNT1ZTajBlT0RSZTJXeXVGamZRRCtwbzRJaEU3S1k5VS80RXBaKzZIRFZGNkp2Y1FGbVBlWjQzemttVXIwalN4U2krZTkvcE1MSDBRRXQyekNwVFgrVzNmMmFsdmlmNUE2R0NCSmxzRGgvY2NKdTc4ZTF2NlhoOEEwb1JkKzdSMEZZZkpnZTRLbG9CZk9HeEtFQT09IiwibWFjIjoiNGFhM2U5ZTY4ZDFhMjNiZTFhNzI3ODM4NzYzM2RjODc5ODAzY2RiYjkxY2M4MGY1YWE1NmY3MWIyZDIwNjUyMSIsInRhZyI6IiJ9&r=faf854&rt=3b43054e486120bfff84bcc5d85ab372
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.roku.com/developer_channels/prod/fba94b17bc2612b614c93237c06f00587e1c35560e24025930549855e86d42e5.png" group-title="MLB", MLB TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/MLBNetwork.us.png" group-title="MLB", MLB TV
 #EXTVLCOPT:network-caching=1000
 http://209.222.97.75/play/hls/eyJpdiI6ImsvVDg3R1Q4TTQyRzA2bXgyM1BsckE9PSIsInZhbHVlIjoiZWxmdnFLam43ZDZKQkVFN1JBSG1rdFhmam1BdzNia01QcU9NZ3RrU3lPaHZ4QmxHVEVlb3hFMXpUbGlNdkUrKyIsIm1hYyI6ImI0MjIxZjY4ODRmMzQ4MzY2OTdkZWY3NmZkODhlMWM4M2ExMzExZWVkODhmMTY1OWNmYzk1ZjI4Y2JlMzk0MzgiLCJ0YWciOiIifQ==/1f2498fb-bf28-4815-9aff-5e26eba7f929.m3u8?lvtoken=eyJpdiI6IlduTjV3NUlzdHFhdjEramFlbVZlN2c9PSIsInZhbHVlIjoiN202VW1lWTRKU3l2dWZOSUFKWEVENDdhZlpOWkpTRFhUVVJYT2R2UDI5TDlBcjIxWWtUbzA2NUc3SC8wZWtmaS81Q2hSM005UlZoaGg0VDc2cm5vVlRGb0RWZSt5ZWQ3SnFKUG1xbUtTa3Q0SGhuSDNhT2tISFNTbmI2Y0ZyV2tVRG9rNVc2RTcrQ2drVnIvbkFwYjhtU0JyK3BuU0xtM0wrTTZZMWpWK3JleHYySFA0SHZCeDUvTGZhV3JOV3VoUkc0Kzd1YlFrdm8xUGt6Tm4vNU96dz09IiwibWFjIjoiMTkwOGE0NDMwNzQ1NmM4NzZlZWI3OWM3NzVmMzg2YzI5M2I1MzVhZTI3MTQ3NDRiNDU1NDYwMWM1MDU4YjI4YSIsInRhZyI6IiJ9&r=92a510&rt=d61a6d71734da518aecf4251804dba71
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_11054_7_8175.png" group-title="MLB", IVC DEPORTES
