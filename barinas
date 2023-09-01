@@ -10,7 +10,7 @@ https://5.trstream01.xyz/canal3/stream.m3u8
 https://2.trstream01.xyz/canal4/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="WEBMARFINS",WEBMA 04
 #EXTVLCOPT:network-caching=100
-https://api.new.livestream.com/accounts/9869799/events/7517661/live.m3u8
+https://5.trstream01.xyz/canal6/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="WEBMARFINS",WEBMA 05
 #EXTVLCOPT:network-caching=100
 https://movilhipismotv.com:5443/livetv99/streams/g3LfJuR4KIWP1693428548520.m3u8
