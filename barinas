@@ -71,7 +71,7 @@ https://dmithrvll.cdn.mangomolo.com/dubairacing/dubairacing/chunklist.m3u8
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index628.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://nationalsteeplechase.com/wp-content/uploads/2022/01/logo-white.png" group-title="AMERICANAS", NSA SARATOGA
 #EXTVLCOPT:network-caching=1000
-https://shlsakamai4.akamaized.net/hlsorigin/nyra_bcast_hd_fm_400/chunklist.m3u8?stream=nyra_bcast_mbr&cust=NYRA&user=&t=1693497749&h=81756b3fb1ef4a04935d3e1fd5ab903b&type=live
+https://2-fss-2.streamhoster.com/pl_120/205890-3594164-1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://media.bizj.us/view/img/11906256/fdretailsbk-hrlogovrtfullcolorprimarydarkbg.jpg" group-title="AMERICANAS", FANDUEL SPORTSBOOK
 #EXTVLCOPT:network-caching=1000
 https://s3.amazonaws.com/cdn.fanduel.com/images/2022/FDTV_FD%2B/FDTV+-+Teaser+Sizzle+-+v7.mp4
