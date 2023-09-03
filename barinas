@@ -72,9 +72,6 @@ https://dmithrvll.cdn.mangomolo.com/dubairacing/dubairacing/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="AMERICANAS", RACING TV
 #EXTVLCOPT:network-caching=1000
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index628.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://nationalsteeplechase.com/wp-content/uploads/2022/01/logo-white.png" group-title="AMERICANAS", NSA SARATOGA
-#EXTVLCOPT:network-caching=1000
-https://2-fss-2.streamhoster.com/pl_120/205890-3594164-1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://inh.gob.ve/wp-content/uploads/2020/05/inh_logo.png"= group-title="INH", INH EN VIVO 13
 #EXTVLCOPT:network-caching=1000
 https://video.twimg.com/ext_tw_video/1689735105588133889/pu/pl/640x360/qOY-0LTJXisu3jiZ.m3u8?container=fmp4
