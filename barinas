@@ -72,9 +72,6 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index628.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://nationalsteeplechase.com/wp-content/uploads/2022/01/logo-white.png" group-title="AMERICANAS", NSA SARATOGA
 #EXTVLCOPT:network-caching=1000
 https://2-fss-2.streamhoster.com/pl_120/205890-3594164-1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://media.bizj.us/view/img/11906256/fdretailsbk-hrlogovrtfullcolorprimarydarkbg.jpg" group-title="AMERICANAS", FANDUEL SPORTSBOOK
-#EXTVLCOPT:network-caching=1000
-https://s3.amazonaws.com/cdn.fanduel.com/images/2022/FDTV_FD%2B/FDTV+-+Teaser+Sizzle+-+v7.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://inh.gob.ve/wp-content/uploads/2020/05/inh_logo.png"= group-title="INH", INH EN VIVO 13
 #EXTVLCOPT:network-caching=1000
 https://video.twimg.com/ext_tw_video/1689735105588133889/pu/pl/640x360/qOY-0LTJXisu3jiZ.m3u8?container=fmp4
