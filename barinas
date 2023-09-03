@@ -13,10 +13,10 @@ https://2.trstream01.xyz/canal4/stream.m3u8
 https://5.trstream01.xyz/canal6/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="WEBMARFINS",WEBMA 05
 #EXTVLCOPT:network-caching=100
-https://movilhipismotv.com:5443/livetv99/streams/TZPbRR75jVpf1693660158925.m3u8
+https://webmarfin.com/usa6.php
 #EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="WEBMARFINS",WEBMA 06
 #EXTVLCOPT:network-caching=100
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1693691565/ei/TVrzZPCyApf9vPIP-ZCIkAc/ip/190.199.231.232/id/Qan2mHvcyKw.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maxh/4320/maudio/1/siu/1/spc/UWF9f8qBtLwSXgNSbDZKsbaECAUJl0xI-xPGqk0Me_v5NQe7X538s1E/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhALuXBW-jdL-Tn4OaPYaOGO_6IUa2cXd1f-uGp6q8c4bWAiEA-dRoN7Rsp06wcI64WCcKlhjlf2OV45X7xOcnO5NF0BQ%3D/file/index.m3u8?
+https://movilhipismotv.com:5443/livetv99/streams/TZPbRR75jVpf1693660158925.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.roku.com/developer_channels/prod/d46daaf2260e5e05627268b74f059806b39f02b1594a2fbaeb4b1b7d347a1e73.png" group-title="XBTV",XBTV LAUREL TIMONIUM
 #EXTVLCOPT:network-caching=1000
 https://api.new.livestream.com/accounts/9869799/events/6761374/live.m3u8
@@ -89,4 +89,4 @@ http://68.235.48.211/play/hls/eyJpdiI6IjJBcEFrUXJDSFZ4a3RETDlmNXJrVkE9PSIsInZhbH
 http://68.235.56.91/play/hls/eyJpdiI6IkYzTjVpellUNkIrLzhqVEpiNnJoQ2c9PSIsInZhbHVlIjoiUXNBcnN0SjRyUVBLQ3p3UmVYeXJyUDVmQ3JGU25tQW1Pa2pmRkM2WmVUNkZscEYrcjB6ZFF5Q1N4T3QwL21keiIsIm1hYyI6ImFhM2U1OTg3ZDgxMzQ4NDQ2ZWQ0MGM5ZDY0MGJiYzk2ZTc0YWFhYzdlMjBiYzIwNjFjZDZhMTVkMjEwZDI3NmMiLCJ0YWciOiIifQ==/f3dd89c8-8ba4-44bc-bd18-78d241b49956.m3u8?lvtoken=eyJpdiI6IlZhYTlPeHg2MWEycmkvbjdId3dQWFE9PSIsInZhbHVlIjoibzJFemdWVXJ6QXBCcG9odkVxdjNMRkRsYkYxdGdGa01yazFiYUYxZnBpQjlSWVhTQ0FNQW1HVU11UFVycWtEbEk0N3ZBZkdnd05VVnA1TXkxR2FzcE4zcUhYOCtjNTVXMlNsY2hadHN3ZnliREp1YXVsZHpHUkRuNVREVURuc1hsODhxeE1BamV0VjdsVDl3RHhBNm1wSmdaVCsrT1pySUJ3V3NHZVFObjJWdHdRNEdHRHp0VHVYRnhSU25oYS85cTZGcjU2VzdLa0pUQUxXMVVxQVlzQT09IiwibWFjIjoiYTRhMjVlZjA4MWQxN2RmOWRiMzFiNTdlZGE0YzZhZDRiY2I2OWJmZmI3ZjU0NzYyYTk0Mjk1ZGFlMjYxODI1YiIsInRhZyI6IiJ9&r=57308e&rt=7529083cac33384f19183a3cdeed90e6
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GBjTaF9.png", MLB 2
 #EXTVLCOPT:network-caching=1000
-https://gazytv.com:8443/live/Demo2323/7v9taaPKnv/156.m3u8
+http://68.235.61.59/play/hls/eyJpdiI6ImVocDlPMHdVdWVtUzNYcGpjd21tS1E9PSIsInZhbHVlIjoid2I1UUVDSEpRUUlGV2J6bjdnOE5HLzIxQUY5dGpxOHhHYzE1akR0NnN5OXpQQjcyb3RIQXRpSjdBT083eXFIayIsIm1hYyI6ImUxZjk1YzgwN2ZkODMyMzA5NWYxZGQ0YjFmMDZkN2I4N2E4YWY5MTJlYzI5ODEyMTQwMjAzMjE2MDRjZDY0ZmYiLCJ0YWciOiIifQ==/f8600c54-690d-4ab2-b268-3d9f4ca69d0d.m3u8?lvtoken=eyJpdiI6ImZ0aXBYUUVlUmNLUkZ4dGNmdk02enc9PSIsInZhbHVlIjoiVEJ4b3ZpdS8zM1NqYnk1ZEFRcUd3Ykx1YURFdlZUNW53dERrRXZ3ZG1jVEc1QmpiS21ma0pGWFZQSHR1YjZqcDZjNEVQN0M3T2wzbHBTdTZkVDBXZVNrMVNQVlJsN2JsNjN3NFgvYjVLV2ZmTDR4d0xvTUxRMVFWNFlldGhsTENrN1lxdVlRTlhwSTdGODFUeEpneE1OUjl0V0czYkFGVFN6MXpNbG13aHYvU0pJOEZkQXFTVnBoUlBHY0RNVUswR1kvc0NXalhXMTcvUjhYK0ZhQm1XUT09IiwibWFjIjoiN2YxYTY4OTQ4NWFjYmViNzIwMTU3YzA0ZTc4ODI2OTY0N2FiYjY4YzRiYzhlZDM3Y2ZjYzRkZDQzY2U1NGQ1MSIsInRhZyI6IiJ9&r=4c348e&rt=c316767bd364540461f2a6357111d2a9
