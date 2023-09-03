@@ -13,7 +13,7 @@ https://2.trstream01.xyz/canal4/stream.m3u8
 https://5.trstream01.xyz/canal6/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="WEBMARFINS",WEBMA 05
 #EXTVLCOPT:network-caching=100
-https://webmarfin.com/usa6.php
+https://2.trstream01.xyz/canal6/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="WEBMARFINS",WEBMA 06
 #EXTVLCOPT:network-caching=100
 https://movilhipismotv.com:5443/livetv99/streams/TZPbRR75jVpf1693660158925.m3u8
@@ -48,6 +48,11 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1693775959/ei/9
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1693779845/ei/JbP0ZPz_Go66sfIP7_mY6AU/ip/38.75.136.147/id/oSVOTPo0muI.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f4r52TpKz-BjOTHwzaXUm2gF0fkCzh83lCvf7lWWVwNRSFAp5Vw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgKASx8q8_aGfms4Xranuu04tIoYhcuAYC0T-NOwjw1A8CIQDyWrRv3bLKyLBpm-hRA26_k_UM63XKS5cHxol9IlGKAA%3D%3D/file/index.m3u8?
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.youtube.com/s/desktop/51e20ad6/img/favicon_144x144.png" group-title="AMERICANAS", JVC SIMULCAST
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1693781751/ei/l7r0ZLG7DoTtvPIPu9WnyAU/ip/200.44.211.86/id/k-vrPOgniyA.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maxh/4320/maudio/1/siu/1/spc/UWF9f7chAlC0xFVvjpZJuSMnno1QwnM8W5nV4oAgV1wpHa2YSXHFfPk/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgGh1kh2h31FPRpgFAhOTH1hA6qnnrBccfCEUQ5ufB-cQCIQCbvZqy7NKz0a4Hg2lznCVEPTymZ69R_T9KyF0WTd3zOw%3D%3D/file/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1326188819578753024/iLYLe_Oh_400x400.jpg" group-title="Galgos", SIS TV Galgos
 #EXTVLCOPT:network-caching=100
 https://f3media-greyhound-b28-cdn.hexaglobe.net/d10499c4b99c37b49d9155b5e8e51bc7/1653595377/f3media-website-web-1/f3greyhoundpri_fre_576p.m3u8
