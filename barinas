@@ -29,6 +29,9 @@ https://api.new.livestream.com/accounts/9869799/events/7517661/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/WOOBINE2.JPG" group-title="WOOBINE", WOOBINE OFICIAL
 #EXTVLCOPT:network-caching=100
 https://bcovlive-a.akamaihd.net/713d396427fa481180b8d7cfa1fb792f/us-east-1/61382429001/profile_0/chunklist.m3u8?hdnea=st=1690044778~exp=9007200944785769~acl=/713d396427fa481180b8d7cfa1fb792f/*/profile_0/chunklist.m3u8*~hmac=d2da18ba54a76762d7568d0111e7277c20b47a1d506030a088c60117e79d4d63
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/fsTK7LYe4XE9q5glDvHA185itzh9Ko3w1xLatCXT1nCd1mmTHLQcR-22jBtQSR5pymAlLzdfAQ=s176-c-k-c0x00ffffff-no-rj" group-title="WOOBINE", AJAX OFICIAL
+#EXTVLCOPT:network-caching=1000
+https://live.vimeocdn.com/1693760918-0xe5bda920c8b0cf5c4a8534b813d70f28e561541b/6a9234ba-0195-41e8-af2e-1db1bf8f2f40/chunklist_b728000.m3u8?max_segments=10
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.westernotb.com/wp-content/themes/custom-theme/images/logo-large.png" group-title="AMERICANAS", CAPITAL OTB
 #EXTVLCOPT:network-caching=1000
 https://movilhipismotv.com:5443/livetv99/streams/TZPbRR75jVpf1693660158925.m3u8
@@ -57,18 +60,12 @@ https://skylivepremium-new.akamaized.net/hls/live/2036996/sky1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaQgrhcpDvyq-lFbl3bzvu-kCdMtnN9rcAtoe5wh-w=s176-c-k-c0x00ffffff-no-rj" group-title="LATAM", MONTERRRICO PERU USA
 #EXTVLCOPT:network-caching=1000
 https://ed3od.live.opencaster.com/jcpstream_mid/index.m3u8?token=eHsSN4w1QHXXwHyRFm6x5wNIqconnVFuvIMTZuzrOpE%3D
-#EXTINF:-1 tvg-id="" tvg-logo="http://resources.mynewsdesk.com/image/upload/c_limit,dpr_2.625,f_auto,h_700,q_auto,w_360/luh8fqfqetgkhkmx9lst.jpg" group-title="LATAM", ATG HORSE RACING UK
-#EXTVLCOPT:network-caching=1000
-https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://galopetv.com/wp-content/uploads/2019/12/logo-GalopeTV.png" group-title="AMERICANAS", GALLOPE TV UK USA
 #EXTVLCOPT:network-caching=1000
 https://622388392e06e.streamlock.net/galloptv/gc_galloptv.smil/chunklist_w7399062_b1464000_sleng_tkZ3JleXZpbGxlZW5kdGltZT0xNjkzNzg0MDQwJmdyZXl2aWxsZXN0YXJ0dGltZT0wJmdyZXl2aWxsZXh0cmFXZWJQYWdlSUQ9c3RldmUmZ3JleXZpbGxlaGFzaD1uR3M4Yi0tWWEtNEdFOC1Ca2p2aWRPX1l5bnJXZFFncnIwaVVRdmxhU3RJPQ==.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaRXouSrWO1tSd-XRJlReGEplligZ1rSFj5i0YHT=s176-c-k-c0x00ffffff-no-rj" group-title="LATAM", HIDPODROMOS CHILE USA
 #EXTVLCOPT:network-caching=1000
-https://unlimited1-us.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream3/chunks.m3u8?nimblesessionid=870690680
-#EXTINF:-1 tvg-id="" tvg-logo="http://admango.cdn.mangomolo.com/analytics/uploads/71/icons/live/dubai-racing-live.png" group-title="AMERICANAS", DUBAI RACING1
-#EXTVLCOPT:network-caching=1000
-https://dmithrvll.cdn.mangomolo.com/dubairacing/dubairacing/chunklist.m3u8
+https://unlimited1-us.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream2/chunks.m3u8?nimblesessionid=911241342
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="AMERICANAS", RACING TV
 #EXTVLCOPT:network-caching=1000
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index628.m3u8
