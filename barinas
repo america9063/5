@@ -45,8 +45,12 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1693866354/ei/E
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1693867024/ei/rwf2ZIf0O8vhvPIPiMOK0AE/ip/201.249.25.21/id/OriyB6ZhU6c.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9fy2HNJJneU0WdThN4Ra4XPdJqZPeaHHEEXYIBCS-XqxMSbkDPjw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgTE3NN3azqN1f2mBRnF7uvc4-kqWJitnuj0miedwa6igCIAS8-cxDqr2CzJsJuNfxRIHuuq3USp4hzueG6HKanjQw/file/index.m3u8?
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.youtube.com/s/desktop/51e20ad6/img/favicon_144x144.png" group-title="AMERICANAS", fort eric
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1693867209/ei/aQj2ZMrECsadkAPIh7zACQ/ip/201.249.25.21/id/ocb9y7wyMtA.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maxh/4320/maudio/1/siu/1/spc/UWF9f6ZgNio7QbahaPszCtZk7Eo-ui3f-33EyCUmxhlhs_cZu7_soKY/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJnTACP_Vr8H8xU-0SjXDEDzcM1bx9g3ND6BjpvwLIVbAiB6gSzdfF0oBtpUzytoP93Sj7UWJeNoa8wRV4PL-Upbsg%3D%3D/file/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.youtube.com/s/desktop/51e20ad6/img/favicon_144x144.png" group-title="AMERICANAS", JVC SIMULCAST
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
