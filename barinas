@@ -19,12 +19,6 @@ https://2.trstream01.xyz/canal6/stream.m3u8
 https://movilhipismotv.com:5443/livetv99/streams/TZPbRR75jVpf1693660158925.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.roku.com/developer_channels/prod/d46daaf2260e5e05627268b74f059806b39f02b1594a2fbaeb4b1b7d347a1e73.png" group-title="XBTV",XBTV LAUREL TIMONIUM
 #EXTVLCOPT:network-caching=1000
-https://api.new.livestream.com/accounts/9869799/events/6761374/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.roku.com/developer_channels/prod/d46daaf2260e5e05627268b74f059806b39f02b1594a2fbaeb4b1b7d347a1e73.png" group-title="XBTV", XBTV GULSTREAMS PARK
-#EXTVLCOPT:network-caching=1000
-https://api.new.livestream.com/accounts/9869799/events/3519786/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.roku.com/developer_channels/prod/d46daaf2260e5e05627268b74f059806b39f02b1594a2fbaeb4b1b7d347a1e73.png" group-title="XBTV", XBTV HIPICA TV
-#EXTVLCOPT:network-caching=1000
 https://api.new.livestream.com/accounts/9869799/events/7517661/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/WOOBINE2.JPG" group-title="WOOBINE", WOOBINE OFICIAL
 #EXTVLCOPT:network-caching=100
