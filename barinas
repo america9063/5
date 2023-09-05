@@ -28,10 +28,13 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1693951757/ei/r
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1693951854/ei/DlP3ZJm6KdiI3rsPq8ewgA8/ip/190.203.53.41/id/Clnb9GIP9s4.2/source/yt_live_broadcast/requiressl/yes/hfr/1/maxh/4320/maudio/1/siu/1/spc/UWF9f66ms5AkY89eSsm155PfTHH3AsTKfLhdRBSnWMayIRhWGYdlzB0/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgXm5pg7vpZIuufeZ_-cvr1C9E-2wWyeC_7B0np0gj-tICIGTB-26Avpm59DVRTS6m5rB8QPa45sHSGwp_s0EN5A4D/file/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.youtube.com/s/desktop/51e20ad6/img/favicon_144x144.png" group-title="AMERICANAS", Fanduel Sportsbook and Horse Racing
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.youtube.com/s/desktop/51e20ad6/img/favicon_144x144.png" group-title="AMERICANAS", GANDORES CL
 #EXTVLCOPT:network-caching=1000
-https://dcs-live-ue4.mp.lura.live/server/play/Z0ywNl4hlapQfxDj/rendition.m3u8?track=video-1&anvsid=m177635097-n50ad33684a451c6ec0c14468d420c20a&ts=1693936221&anvtrid=d77107d86377ee6f15614adfe6fb763c
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.youtube.com/s/desktop/51e20ad6/img/favicon_144x144.png" group-title="AMERICANAS", fingers lakes
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1693961485/ei/rXj3ZICWLMKg_9EP4LC2sAg/ip/66.23.202.234/id/4GWLd-eqpzA.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maxh/4320/maudio/1/siu/1/spc/UWF9f68ld2PO3eoiK5n4kEbKtqpZYQUoX2XT1LI8N-m6Bq3EETopk8A/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAPYk49YplHmU1vAYzwLw8BkG0Wadepr9P177U7iDhs5sAiB4HbrHPW9aptt4UcRUD1hsGIi8Y8JVphL1Zjx5533PdQ%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.youtube.com/s/desktop/51e20ad6/img/favicon_144x144.png" group-title="AMERICANAS", SUPER BET
+#EXTVLCOPT:network-caching=1000
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1693961628/ei/PHn3ZKzyD4eE4QT65ba4AQ/ip/66.23.202.234/id/3ZrZ_pCFfYs.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f-MopATbh6OS_v6VoMKVYNg-_PSCfuROr8HskjZxKLVrfrvkQAc/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAKpW39xK7PV067IoP0kt0SpzOqq4L31zXCMhVES00MILAiBVqhx-5OB1zq7O-ZdUGhNO3ikwbSd2a8kMlsEP2mhW-A%3D%3D/file/index.m3u8?
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.youtube.com/s/desktop/51e20ad6/img/favicon_144x144.png" group-title="AMERICANAS", PROXIMO EVENTO
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
