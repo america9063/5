@@ -8,13 +8,13 @@ https://5.trstream01.xyz/canal3/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="WEBMARFINS",WEBM 03
 #EXTVLCOPT:network-caching=100
 https://2.trstream01.xyz/canal4/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="WEBMARFINS",WEBMA 04
+#EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="WEBMARFINS",WEBM 04
 #EXTVLCOPT:network-caching=100
 https://5.trstream01.xyz/canal6/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="WEBMARFINS",WEBMA 05
+#EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="WEBMARFINS",WEBM 05
 #EXTVLCOPT:network-caching=100
 https://2.trstream01.xyz/canal6/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="WEBMARFINS",WEBMA 06
+#EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="WEBMARFINS",WEBM 06
 #EXTVLCOPT:network-caching=100
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1693864765/ei/3f71ZKHDGu6jy_sPg9SNyA4/ip/201.249.25.21/id/4Zr0LtTM7nw.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f2A3NdI1fJ6XnSHAgt66X0yXVBJXg4qHTRR7wYL7sZziIFC2HEU/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAPGOig3-NrlqvXQMze87JIDKMG44AHJLbpPMK4gqCVILAiBq6V1rCX9W5PthspA9MhtLhkKeKEB1HzS40Ay6gqZ9pQ%3D%3D/file/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.roku.com/developer_channels/prod/d46daaf2260e5e05627268b74f059806b39f02b1594a2fbaeb4b1b7d347a1e73.png" group-title="XBTV",XBTV LAUREL TIMONIUM
@@ -90,3 +90,6 @@ https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/675028.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qh7Iywp.png" group-title="DZN", WAPA DEPORTES HD
 #EXTVLCOPT:network-caching=1000
 https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/667187.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Dt73mTV/ZONFU.png" group-title="DZN", ZONA FUTBOL
+#EXTVLCOPT:network-caching=1000
+http://68.235.48.211/play/hls/eyJpdiI6IlZCMmlLN002VXM1RytxSHZzVEhGclE9PSIsInZhbHVlIjoielArMVYxTThkM0F6VWFsbk9TWUpnaGtnQUVqNmM5alA4U3JDak5oc1FISTJXa2NGSXJBcXNTYmgzRWoyaXRZYyIsIm1hYyI6IjkxNmM3ZWM5YTU0ZDZmOTgwZTU5Zjg1Y2ZjM2Y5ZDM0ZDMyN2QzY2RlZDJhOTYwYzIxNjk0ODljMjMxMmNmYjAiLCJ0YWciOiIifQ==/27b3e77a-e2ba-4a67-8667-825758bfbabf.m3u8?lvtoken=eyJpdiI6ImNlUCtLelNqMW5vYnNLKzVmb0FFRmc9PSIsInZhbHVlIjoiNDRabUcvcjVtVU9ON3V0clJxcUJXTm1YSm1JRndZYUFORUtlNVNzYWRoY200MTdlN3Q1UFYxd09UWkpWdUkwTjE4TmsxcUNxN0RldjgxUnJDRXhtZkczb3FzNHNWUWpId0NkUEdtRW91c1FGS3M0YjUxeTFNdTRjOG9YZlJ1WlZ4ZUR2SSs3Q3R6RDZhcHJJdlRqRmRRbENHU1djNTBVUVVxd2NITFMzOWdKZEkyQnlKL0JPZEZweE52UUc5ejVBZTJzZlFpRUs5dS9FNVZhRXcxRjRWQT09IiwibWFjIjoiZmNjMTcyNGQ2MjAwMWY1MGVjYjc4MTEwNmQwNmI0YTBiODNmOTUxMzAyYWYzOTQ4ZmJjYTYwNjc2ZDkzYTE0MSIsInRhZyI6IiJ9&r=a260e9&rt=3a3e051d5961ae69d04fdfe2af8e615f
