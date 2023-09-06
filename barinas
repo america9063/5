@@ -76,10 +76,6 @@ http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/7323/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/saqCezE3-cZgt4VCDs3sAcsNbRWK4xAIFHDOKx1_wgvQ-bDL-GNByw8OzIBIhLvgB1YvtdhHMD0=s176-c-k-c0x00ffffff-no-rj" group-title="FOX", FOX SPORTS 1 MEX
 #EXTVLCOPT:network-caching=1000
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/7322/index.m3u8
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/836319515679993856/o21RFHuA_400x400.jpg" group-title="BEING", BEING SPORTS
 #EXTVLCOPT:network-caching=1000
 https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/389710.m3u8
