@@ -100,3 +100,47 @@ https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/667187.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Dt73mTV/ZONFU.png" group-title="DZN", ZONA FUTBOL
 #EXTVLCOPT:network-caching=1000
 http://68.235.48.211/play/hls/eyJpdiI6IlZCMmlLN002VXM1RytxSHZzVEhGclE9PSIsInZhbHVlIjoielArMVYxTThkM0F6VWFsbk9TWUpnaGtnQUVqNmM5alA4U3JDak5oc1FISTJXa2NGSXJBcXNTYmgzRWoyaXRZYyIsIm1hYyI6IjkxNmM3ZWM5YTU0ZDZmOTgwZTU5Zjg1Y2ZjM2Y5ZDM0ZDMyN2QzY2RlZDJhOTYwYzIxNjk0ODljMjMxMmNmYjAiLCJ0YWciOiIifQ==/27b3e77a-e2ba-4a67-8667-825758bfbabf.m3u8?lvtoken=eyJpdiI6ImNlUCtLelNqMW5vYnNLKzVmb0FFRmc9PSIsInZhbHVlIjoiNDRabUcvcjVtVU9ON3V0clJxcUJXTm1YSm1JRndZYUFORUtlNVNzYWRoY200MTdlN3Q1UFYxd09UWkpWdUkwTjE4TmsxcUNxN0RldjgxUnJDRXhtZkczb3FzNHNWUWpId0NkUEdtRW91c1FGS3M0YjUxeTFNdTRjOG9YZlJ1WlZ4ZUR2SSs3Q3R6RDZhcHJJdlRqRmRRbENHU1djNTBVUVVxd2NITFMzOWdKZEkyQnlKL0JPZEZweE52UUc5ejVBZTJzZlFpRUs5dS9FNVZhRXcxRjRWQT09IiwibWFjIjoiZmNjMTcyNGQ2MjAwMWY1MGVjYjc4MTEwNmQwNmI0YTBiODNmOTUxMzAyYWYzOTQ4ZmJjYTYwNjc2ZDkzYTE0MSIsInRhZyI6IiJ9&r=a260e9&rt=3a3e051d5961ae69d04fdfe2af8e615f
+#EXTINF:-1 tvg-name="ASTROS" tvg-logo="http://atvpanel.com/posters/1553901748345.png", ASTROS
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/982.m3u8
+#EXTINF:-1 tvg-name="ASTRO" tvg-logo="http://atvpanel.com/posters/1553901786295.png", OKLAND
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/984.m3u8
+#EXTINF:-1 tvg-name="ATLANTA" tvg-logo="http://atvpanel.com/posters/1569585671425.png", ATLANTA
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/986.m3u8
+#EXTINF:-1 tvg-name="STLOUIS" tvg-logo="http://atvpanel.com/posters/1569585789475.png", STLOUIS
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/988.m3u8
+#EXTINF:-1 tvg-name="METS" tvg-logo="http://atvpanel.com/posters/1569586028296.png", METS
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/995.m3u8
+#EXTINF:-1 tvg-name="TAMPABAY" tvg-logo="http://atvpanel.com/posters/1569586354396.png", TAMPA BAY
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/1001.m3u8
+#EXTINF:-1 tvg-name="TAMPABAY" tvg-logo="http://atvpanel.com/posters/1569586494325.png", KANSAS CITY
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/1005.m3u8
+#EXTINF:-1 tvg-name="NY" tvg-logo="http://atvpanel.com/posters/1569586609298.png", NY
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/1008.m3u8
+#EXTINF:-1 tvg-name="PITSBURH" tvg-logo="http://atvpanel.com/posters/1569586189263.png", PITSBURH
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/998.m3u8
+#EXTINF:-1 tvg-name="MIAMI" tvg-logo="http://atvpanel.com/posters/1569585997372.png", MIAMI
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/994.m3u8
+#EXTINF:-1 tvg-name="BALTIMORE" tvg-logo="http://atvpanel.com/posters/1569586103145.png", BALTIMORE
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/997.m3u8
