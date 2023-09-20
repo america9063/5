@@ -46,6 +46,4 @@ https://ed3od.live.opencaster.com/jcpstream_mid/index.m3u8?token=gC%2FygP2VRQV5h
 #EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="http://aftertv.xyz/posters/1615865234312.png", MLB TV HD
 #EXTGRP:DEPORTES
 https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/156.m3u8
-#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoGjtP-iZwI_66b-oHQ9xCWV1Wi48Egx3IKllVLJBOTNyPiaPscasWyFno3ZEKOISkV08&usqp=CAU", FOX SPORTS USA
-#EXTGRP:LIVE
-https://live-content.xumo.com/142/content/XM0Y0JIJGUQHUV/25668542/4.m3u8
+
