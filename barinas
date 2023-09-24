@@ -39,7 +39,7 @@ https://movilhipismotv.com:5443/livetv99/streams/6zEPYO4BHReu1693659956132.m3u8
 #EXTINF:-1 tvg-logo="https://d2zp5xs5cp8zlg.cloudfront.net/image-88464-340.jpg",[B][COLOR lawngreen]•[COLOR pink] AJAX DOWN [/B][/COLOR]  [B] [COLOR deepskyblue][OFICIAL TV] [/B][/COLOR][B][COLOR lime](SCHEDULE)[/B][/COLOR]
 #EXTGRP:SIMULCAST
 https://live-ak.vimeocdn.com/exp=1695233250~acl=%2F431cb02c-6b8c-4b05-9b23-f04df06c583d%2F%2A~hmac=1b11c66a6861538291bd5b0076a0439537683cc21936ec28b2543cf3add4d67e/431cb02c-6b8c-4b05-9b23-f04df06c583d/chunklist_b416000.m3u8?max_segments=10
-#EXTINF:-1, [B] [COLOR orange] [I][B] -**EVENTOS ****I-N-H-****04144083644 [/B][/I] [/COLOR] 
+#EXTINF:-1, [B] [COLOR orange] [I][B] -**EVENTOS ****VZLA-**** [/B][/I] [/COLOR] 
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/pJbcepMGrlYUN_H2sZ81dyMJwzxo8a-FwoPgeDspJHWEp3fyTO6iykeZoVb0ka7pOTyH5Btt=s176-c-k-c0x00ffffff-no-rj-mo",[B][COLOR lawngreen]•[/B][/COLOR] INH [B][COLOR [B][COLOR lime] HINAVA VALENCIA [/B][/COLOR]  [B][COLOR blue][12:30pm] [/B][/COLOR][B][COLOR red](SABADO)[/B][/COLOR]
 plugin://program.plexus/?mode=1&url=acestream://df58492e734e39d68b54ea6a8104ac0642103bd5&mode=1&name=acestream&mode=1&name=SPORTS 
@@ -74,7 +74,7 @@ https://unlimited1-us.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream3
 #EXTINF:-1 tvg-logo="https://www.hipodromo.com.mx/desktop/images/LOGO_HIPODROMO_bco.png",[B][COLOR lawngreen]•[COLOR pink] HIPODROMO LAS AMERICAS MEX [/B][/COLOR]  [B] [COLOR deepskyblue][OFICIAL TV] [/B][/COLOR][B][COLOR lime](Lunes a Domingo)[/B][/COLOR]
 #EXTVLCOPT:network-caching=1000
 http://wms.tecnoxia.com:1935/8158/8158/chunklist.m3u8
-#EXTINF:-1,[B][COLOR orange] [I][B]***G-A-L-G-O-S**04144083644 [/B][/I] [/COLOR]  
+#EXTINF:-1,[B][COLOR orange] [I][B]***G-A-L-G-O-S** [/B][/I] [/COLOR]  
 http://0.0.0.0:1234 
 #EXTINF:-1 tvg-logo="https://s3-us-west-2.amazonaws.com/eventsfyv2-production/artists/Wheeling_Island_Racetrack_1.jpg",[B][COLOR lawngreen]•[COLOR pink] Wheeling Island USA [/B][/COLOR]  [B] [COLOR deepskyblue][OFICIAL TV] [/B][/COLOR][B][COLOR lime](Lunes a Domingo)[/B][/COLOR]
 #EXTVLCOPT:network-caching=1000
@@ -82,7 +82,7 @@ https://movilhipismotv.com:5443/livetv99/streams/SlibnNwPn0kG1690027259922.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1326188819578753024/iLYLe_Oh_400x400.jpg",[B][COLOR lawngreen]•[COLOR pink] SIS TV UK  [/B][/COLOR]  [B] [COLOR deepskyblue][OFICIAL TV] [/B][/COLOR][B][COLOR lime](Lunes a Domingo)[/B][/COLOR]
 #EXTVLCOPT:network-caching=1000
 https://f3media-greyhound-b28-cdn.hexaglobe.net/d10499c4b99c37b49d9155b5e8e51bc7/1653595377/f3media-website-web-1/f3greyhoundpri_fre_576p.m3u8
-#EXTINF:-1,[B][COLOR orange] [I][B]***D-E-P-O-R-T-E-S**04144083644 [/B][/I] [/COLOR]  
+#EXTINF:-1,[B][COLOR orange] [I][B]***D-E-P-O-R-T-E-S** [/B][/I] [/COLOR]  
 http://0.0.0.0:1234 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/MLBNetwork.us.png" group-title="MLB", [COLOR skyblue] MLB [/COLOR]
 #EXTVLCOPT:network-caching=1000
@@ -121,7 +121,7 @@ http://68.235.61.59/play/hls/eyJpdiI6InExZ28rQ2VQN3NzVit0OUdWQ256ZVE9PSIsInZhbHV
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qh7Iywp.png" group-title="DZN", [COLOR skyblue] WAPA DEPORTES HD [/COLOR]
 #EXTVLCOPT:network-caching=1000
 https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/667187.m3u8
-#EXTINF:-1,[B][COLOR orange] [I][B]--D-E-P-O-R-T-E-S--VIVO-04144083644-[/B][/I] [/COLOR]
+#EXTINF:-1,[B][COLOR orange] [I][B]--D-E-P-O-R-T-E-S--VIVO-[/B][/I] [/COLOR]
 http://0.0.0.0:1234  
 #EXTINF:-1 tvg-name="ASTROS" tvg-logo="https://gray-wilx-prod.cdn.arcpublishing.com/resizer/SNALvCcmnGijjO6vw9WpngVpLGo=/1200x675/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/SLAFYEJEEJNY7ID3HHAOUPL4YA.jpg", [COLOR deepskyblue] MLB1 [/COLOR]
 #EXTGRP:DEPORTES
@@ -167,5 +167,5 @@ https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/994.m3u8
 #EXTGRP:DEPORTES
 #EXTVLCOPT:network-caching=1000
 https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/997.m3u8
-#EXTINF:-1,[B][COLOR orange] [I][B] INFO-+(58)414408-3644 /(+1) 305-203-1089-WHATSAAP[/B][/I] [/COLOR]
+#EXTINF:-1,[B][COLOR orange] [I][B] INFO-/(+1) 305-203-1089-[/B][/I] [/COLOR]
 http://0.0.0.0:1234
