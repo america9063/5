@@ -65,5 +65,5 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-name="BARCA TV" tvg-logo="https://yt3.googleusercontent.com/yNtlvRV8J8CQC1W6hvEwdBHUwXGrzzLKAci2-V-9YAR5-xgTtvfLo8WFLaSH1H8f_f3xBXZzCn8=s176-c-k-c0x00ffffff-no-rj", group-title="DEPORTES [COLOR skyblue] BARCA TV [/COLOR]
 #EXTVLCOPT:network-caching=1000
 https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/389643.m3u8
-#EXTINF:-1,[B][COLOR orange] [I][B] INFO WHATSAPP /(+1) 802-245-3656 [/B][/I] [/COLOR]
+#EXTINF:-1,[B][COLOR orange] [I][B] INFO ESCRIBA WHATSAPP /(+1) 802-245-3656 [/B][/I] [/COLOR]
 http://0.0.0.0:1234
