@@ -55,5 +55,8 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-name="VIRTUAL" tvg-logo="https://sportsbetting.legal/wp-content/uploads/2020/05/virtual-horse-racing-icon-150x150.jpg",  Virtual Horse Racing  
 #EXTGRP:VIRTUAL
 https://streamamg-boyle01.akamaized.net/hls/live/2042661/0_iwo8idg1/0_iwo8idg1_3/chunklist.m3u8
+#EXTINF:-1 tvg-name="VIRTUAL" tvg-logo="https://imagenes.20minutos.es/files/image_990_v3/uploads/imagenes/2020/10/28/pelea-de-gallo.jpeg",  Online Peleas Gallos  
+#EXTGRP:VIRTUAL
+https://live-ak.vimeocdn.com/exp=1696299217~acl=%2F555aa178-5680-4735-a887-380cebde082f%2F%2A~hmac=c054c73e46dd70cc40cf9e1a696cb186c1c5bdbb450c0a732523379b6859d802/555aa178-5680-4735-a887-380cebde082f/chunklist_b728000.m3u8?max_segments=10
 #EXTINF:-1, INFO WHATSAAP (+1) 802-245-3656
 http://0.0.0.0:1234
