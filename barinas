@@ -52,6 +52,15 @@ https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/914606.m3u8
 #EXTGRP:SPORTS
 #EXTVLCOPT:network-caching=1000
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Premium MX" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpc2MbyzhDqpTaFPd_t58ECwT3OuAvwsYtAihehKB6FVNmuDTe9CtWcbmucPtedImllJw523jfAarHHcLcTqIU-3jb63gWGffzgD97ITOey7UHkrpuwJZ67jSxIC3mInkksOi0dFQiFe9VHit4XnQpLU-iDXmI96AVMT_fjI6ZQ4j13fjczGm28cT7-Wkc/s320/istockphoto-1064855432-1024x1024.jpg", PARX RACING SERVER2
+#EXTGRP:SIMULCASTHD
+https://streamn.horserjson.info/video/hls/philadelphia_mbr/ExX4sG6wm-PTGRVdBdFKhQ/1696353931/philadelphia_mbr.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Premium MX" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpc2MbyzhDqpTaFPd_t58ECwT3OuAvwsYtAihehKB6FVNmuDTe9CtWcbmucPtedImllJw523jfAarHHcLcTqIU-3jb63gWGffzgD97ITOey7UHkrpuwJZ67jSxIC3mInkksOi0dFQiFe9VHit4XnQpLU-iDXmI96AVMT_fjI6ZQ4j13fjczGm28cT7-Wkc/s320/istockphoto-1064855432-1024x1024.jpg", BELTERRA SERVER2
+#EXTGRP:SIMULCASTHD
+https://streamn.horserjson.info/video/hls/belterra_park_mbr/Z8GdBWF85RDfXnW79JS2vQ/1696354098/belterra_park_mbr.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Premium MX" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpc2MbyzhDqpTaFPd_t58ECwT3OuAvwsYtAihehKB6FVNmuDTe9CtWcbmucPtedImllJw523jfAarHHcLcTqIU-3jb63gWGffzgD97ITOey7UHkrpuwJZ67jSxIC3mInkksOi0dFQiFe9VHit4XnQpLU-iDXmI96AVMT_fjI6ZQ4j13fjczGm28cT7-Wkc/s320/istockphoto-1064855432-1024x1024.jpg", BELTERRA SERVER2
+#EXTGRP:SIMULCASTHD
+
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports Premium MX" tvg-logo="https://thespun.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_760/MTgzMTI5NTI2Mzg2MDQyMjc1/fox-sports-1-logo.webp"  group-title="DEPORTES", Fox Sports 1 NYRA
 http://190.203.52.83:6878/play/O2oULww/10
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports Premium MX" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2017/08/FS2-Logo_1040x585-607x337.jpg"  group-title="DEPORTES", Fox Sports 2 NYRA
