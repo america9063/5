@@ -93,7 +93,7 @@ https://streamamg-boyle01.akamaized.net/hls/live/2042661/0_iwo8idg1/0_iwo8idg1_3
 https://vsklivevideo-vs001.akamaized.net/vsk/vhk/chunklist.m3u8 
 #EXTINF:-1 tvg-name="VIRTUAL" tvg-logo="https://imagenes.20minutos.es/files/image_990_v3/uploads/imagenes/2020/10/28/pelea-de-gallo.jpeg",  Online Peleas Gallos  
 #EXTGRP:VIRTUAL
-https://live-ak.vimeocdn.com/exp=1696439264~acl=%2Faa357133-d71c-4991-9212-9549525e4bcb%2F%2A~hmac=a5c1ebd8e4a53189ac62ce6467c1adf60e07c75ead141fb0347aebd700df1ced/aa357133-d71c-4991-9212-9549525e4bcb/chunklist_b416000.m3u8?max_segments=10
+https://live-ak.vimeocdn.com/exp=1696442962~acl=%2Faa357133-d71c-4991-9212-9549525e4bcb%2F%2A~hmac=ef17edb1412fc341d399aa6e6e300e8aa3111f52cc6759ec0498cb158af3c2e6/aa357133-d71c-4991-9212-9549525e4bcb/hls.m3u8?min_seconds=390
 #EXTINF:-1 tvg-name="VIRTUAL" tvg-logo="https://wintips.com/wp-content/uploads/2023/03/dog-racing-is-quite-an-interesting-form-of-betting.jpg",  virtual galgos
 #EXTGRP:VIRTUAL
 https://vsklivevideo-vs001.akamaized.net/vsk/vdk/chunklist.m3u8
