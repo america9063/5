@@ -81,7 +81,7 @@ https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/389643.m3u8
 http://190.203.52.83:6878/play/O2oULww/2
 #EXTINF:-1 tvg-name="FOX SPORTS2" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2017/08/FS2-Logo_1040x585-607x337.jpg", FOX SPORTS 2 NYRA
 #EXTGRP:ACST
-http://190.203.52.83:6878/play/O2oULww/10
+http://190.203.52.83:6878/play/O2oULww/2
 #EXTINF:-1 tvg-name="BEINS SPORTS Ñ" tvg-logo="https://pbs.twimg.com/profile_images/836319515679993856/o21RFHuA_400x400.jpg" BEINS SPORTS Ñ 
 #EXTGRP:SPORTS
 https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/389711.m3u8
