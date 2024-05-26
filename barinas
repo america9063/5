@@ -1,9 +1,9 @@
 #EXTM3U url-tvg=""
 #EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="FS1 USA" tvg-logo="usaflag.png"  group-title="USA", FS1 USA
-https://venevision.akamaized.net/hls/live/2098814/VENEVISION/master.m3u8
-##EXTVLCOPT:network-caching=1000
+https://85.31.47.124:8079/esmeralda/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="FS2 USA" tvg-logo="usaflag.png"  group-title="USA", FS2 USA
-https://vcp.myplaytv.com/cantinatv/cantinatv/chunklist_w315323555.m3u8?WebM3UCL
-##EXTVLCOPT:network-caching=1000
+https://85.31.47.124:8079/esmeralda/mpegts
 #EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="FS2 USA" tvg-logo="usaflag.png"  group-title="USA", FS2 USA
-https://vcp2.myplaytv.com/tvfanb/tvfanb/chunklist_w1700554721.m3u8?WebM3UCL
+https://85.31.47.124:8079/c5/mpegts
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="FS2 USA" tvg-logo="usaflag.png"  group-title="USA", FS2 USA
+https://85.31.47.124:8079/c5/index.m3u8
